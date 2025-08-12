@@ -6,7 +6,7 @@
 
 <h3>Open Source Contribution: <img loading="lazy" width="35px" src="https://emojis.slackmojis.com/emojis/images/1643514230/1973/mario_luigi_dance.gif?1643514230"></h3>
 
-- [LangChain MongoDB](https://github.com/langchain-ai/langchain-mongodb)
+- [langchain-ai/langchain-mongodb](https://github.com/langchain-ai/langchain-mongodb)
 
 <h3>Skills <img loading="lazy" width="35px" src="https://emojis.slackmojis.com/emojis/images/1643512754/51021/thisisfine.gif?1643512754"></h3>
 
@@ -16,7 +16,7 @@
 - **Databases:** MongoDB, Redis, MySQL
 - **Web:** FastAPI, Django
 - **Other:** Docker, Bash, RAG, ArcGIS
-
 <br>
 
 ![](https://komarev.com/ghpvc/?username=mhasan502&style=flat&color=512DA8&label=Views)
+![](https://hit.yhype.me/github/profile?account_id=22940197)
