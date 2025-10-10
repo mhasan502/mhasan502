@@ -6,7 +6,8 @@
 
 <h3>Open Source Contribution: <img loading="lazy" width="35px" src="https://emojis.slackmojis.com/emojis/images/1643514230/1973/mario_luigi_dance.gif?1643514230"></h3>
 
-- [langchain-ai/langchain-mongodb](https://github.com/langchain-ai/langchain-mongodb)
+- [langchain-ai/langchain-mongodb](https://github.com/langchain-ai/langchain-mongodb): Integrations between MongoDB, Atlas, LangChain, and LangGraph
+- [alisaifee/coredis](https://github.com/alisaifee/coredis): Coredis is an async redis client with support for redis server, cluster & sentinel
 
 <h3>Skills <img loading="lazy" width="35px" src="https://emojis.slackmojis.com/emojis/images/1643512754/51021/thisisfine.gif?1643512754"></h3>
 
